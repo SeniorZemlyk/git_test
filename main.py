@@ -8,3 +8,6 @@ from issue_2 import thecond
 
 class Issue1():
     pass
+
+class Issue2():
+    pass
