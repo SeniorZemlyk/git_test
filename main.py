@@ -5,3 +5,6 @@ import typing
 
 class Issue1():
     pass
+
+class Issue2():
+    pass
