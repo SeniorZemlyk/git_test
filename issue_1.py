@@ -1,1 +1,2 @@
 import typing
+print('then')
