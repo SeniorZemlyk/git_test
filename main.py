@@ -11,3 +11,5 @@ class Issue1():
 
 class Issue2():
     pass
+
+print('issue_1_1')
